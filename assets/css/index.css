@@ -305,6 +305,8 @@ h4 {
 
 @media (max-width: 500px) {
     .hero-image-wrapper {
+        border-top-left-radius: 100px !important;
+        border-bottom-right-radius: 100px !important;
         width: 310px !important;
     }
 
